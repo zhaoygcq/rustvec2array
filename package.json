@@ -1,0 +1,26 @@
+{
+  "name": "rustvec2array",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ./"
+  },
+  "repository": {
+    "url": "git@github.com:smallbrave/rustvec2array.git"
+  },
+  "keywords": [
+    "javascript",
+    "rust",
+    "Vec",
+    "Array"
+  ],
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "types": "index.d.ts",
+  "author": "zhaoyinggang",
+  "license": "ISC"
+}
